@@ -16,14 +16,16 @@ Este projeto apresenta uma implementação completa de uma rede neural Perceptro
 
 ## Como Executar
 
-   1. cd Projeto-MNIST
+   1. Entra na pasta
       ~~~
-   2. Instale as dependências:
+      cd Projeto-MNIST
+      ~~~
+   3. Instale as dependências:
       ~~~
       pip install -r requirements.txt
       ~~~
 
-   3. Verifique se os seguintes arquivos estão na pasta `dados/`:
+   4. Verifique se os seguintes arquivos estão na pasta `dados/`:
 
       - `train-images-idx3-ubyte.gz`
       - `train-labels-idx1-ubyte.gz`
@@ -39,7 +41,7 @@ Este projeto apresenta uma implementação completa de uma rede neural Perceptro
 
       Esses arquivos são mantidos no repositório MNIST do _Department of Communications Engineering University of Paderborn_, disponível em: [fgnt/mnist](https://github.com/fgnt/mnist) no GitHub.
 
-   4. Execute o script principal:
+   5. Execute o script principal:
       ~~~
       python main.py
       ~~~
