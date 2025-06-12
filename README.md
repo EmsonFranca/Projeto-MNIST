@@ -16,7 +16,7 @@ Este projeto apresenta uma implementação completa de uma rede neural Perceptro
 
 ## Como Executar
 
-   1. Entra na pasta
+   1. git clone https://github.com/EmsonFranca/Projeto-MNIST.git
       ~~~
       cd Projeto-MNIST
       ~~~
